@@ -187,7 +187,6 @@ fi
 
 
 %changelog
-
 * Mon May 10 2010 Brad Fults <brad at causes dot com> - 0.7.65-2
 - Update to new stable 0.7.65
 - Add in Passenger module compilation
