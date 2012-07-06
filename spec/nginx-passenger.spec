@@ -101,6 +101,9 @@ export DESTDIR=%{buildroot}
     --with-http_sub_module \
     --with-http_stub_status_module \
     --with-ipv6 \
+    --with-http_secure_link_module \
+    --with-http_flv_module \
+    --with-http_mp4_module \
     --add-module=`passenger-config --root`/ext/nginx
 make %{?_smp_mflags}
 
