@@ -187,8 +187,6 @@ fi
 
 
 %changelog
-* Fri Jul  6 2012 Eugene Vilensky - 1.2.2-2
-- updated to latest stable
 
 * Mon May 10 2010 Brad Fults <brad at causes dot com> - 0.7.65-2
 - Update to new stable 0.7.65
